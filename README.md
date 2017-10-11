@@ -1,1 +1,1 @@
-Complete embedded system for an autonomous sorting machine including: UART-based PC communication, PWM servo control, Permanent EEPROM Memory storage, ADC sensor output conversion, and LCD User Interface
+Complete embedded system for an autonomous sorting machine including: UART-based PC communication, PWM servo control, Permanent EEPROM Memory storage, ADC sensor output conversion, I2C Real-time clock communication, time-sliced multitasking, and LCD User Interface.
