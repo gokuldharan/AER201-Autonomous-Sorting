@@ -1,3 +1,1 @@
-"# AER201-Autonomous-Sorting" 
-"# AER201-Autonomous-Sorting" 
-"# AER201-Autonomous-Sorting" 
+Complete embedded system for an autonomous sorting machine including: UART-based PC communication, PWM servo control, Permanent EEPROM Memory storage, ADC sensor output conversion, and LCD User Interface
